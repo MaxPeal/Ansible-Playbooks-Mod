@@ -61,7 +61,7 @@ WIP:
 
 Clone this repository.
 
-`git clone (Ansible-Playbooks.git) && cd Ansible-Playbooks`
+`git clone https://github.com/MaxPeal/Ansible-Playbooks-Mod && cd Ansible-Playbooks-Mod`
 
 ### Setup
 
@@ -275,3 +275,4 @@ In the `main.yml` you would include the tasks as followed:
   tags:
     - nginx
 ```
+https://github.com/MaxPeal/Ansible-Playbooks-Mod
