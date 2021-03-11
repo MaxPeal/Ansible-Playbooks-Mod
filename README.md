@@ -1,6 +1,6 @@
 # Ansible Playbooks
 
-[![Ansible Lint](https://github.com/Mint-System/Ansible-Playbooks/workflows/Ansible%20Lint/badge.svg)](https://github.com/Mint-System/Ansible-Playbooks/actions?query=workflow%3A"Ansible+Lint")
+[![Ansible Lint](Ansible-Playbooks/workflows/Ansible%20Lint/badge.svg)](Ansible-Playbooks/actions?query=workflow%3A"Ansible+Lint")
 
 Collection of Ansible playbooks and roles.
 
@@ -61,7 +61,7 @@ WIP:
 
 Clone this repository.
 
-`git clone https://github.com/Mint-System/Ansible-Playbooks.git && cd Ansible-Playbooks`
+`git clone (Ansible-Playbooks.git) && cd Ansible-Playbooks`
 
 ### Setup
 
